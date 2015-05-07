@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventLog", "EventLog\EventLog.vcproj", "{EE34ED12-7444-4657-97F3-90D52C82E975}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventControl", "EventControl\EventControl.vcproj", "{DB3C9877-15FA-4962-9B55-351A97090B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE34ED12-7444-4657-97F3-90D52C82E975}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE34ED12-7444-4657-97F3-90D52C82E975}.Debug|Win32.Build.0 = Debug|Win32
+		{EE34ED12-7444-4657-97F3-90D52C82E975}.Release|Win32.ActiveCfg = Release|Win32
+		{EE34ED12-7444-4657-97F3-90D52C82E975}.Release|Win32.Build.0 = Release|Win32
+		{DB3C9877-15FA-4962-9B55-351A97090B07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB3C9877-15FA-4962-9B55-351A97090B07}.Debug|Win32.Build.0 = Debug|Win32
+		{DB3C9877-15FA-4962-9B55-351A97090B07}.Release|Win32.ActiveCfg = Release|Win32
+		{DB3C9877-15FA-4962-9B55-351A97090B07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
